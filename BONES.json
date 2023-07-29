@@ -4,5 +4,16 @@
   "artist": "IGEON",
   "author": "MUSEOIMIN",
   "cover": "https://mangadex.org/covers/c7088164-6cae-44ea-bfc3-ff64670390bd/65849bf5-dcda-45ba-9330-288a4b8da753.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "POZNAJCIĘ POTĘGE REGENERACJI !!!",
+      "volume": "",
+      "last_updated": "1690646179",
+      "groups": {
+        "DRAKON": [
+          "https://drive.google.com/uc?export=view&id=1v8L1tFzsSPnlg_P_ZxXc1IuF96dZ3NTn"
+        ]
+      }
+    }
+  }
 }
